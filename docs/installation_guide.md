@@ -1,0 +1,6 @@
+# Installation Guide
+## Prerequisites
+List of prerequisites...
+
+## Steps
+Step-by-step installation instructions...
